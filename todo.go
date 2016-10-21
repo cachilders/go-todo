@@ -2,7 +2,8 @@ package main
 
 import (
 	"database/sql"
-  "./handlers"
+	
+  "go-todo/handlers"
 
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/engine/standard"
